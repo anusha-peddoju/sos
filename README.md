@@ -2,10 +2,10 @@
 git clone
 https://github.com/anusha-peddoju/sos
 
-cd sos.py
+cd sos
 
-chmod +x changepassword.sh
+chmod +x index.sh
 
-./changepassword.sh
+./index.sh
 
 exit
