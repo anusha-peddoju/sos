@@ -1,8 +1,8 @@
-# sos
+# sosgame
 git clone
 https://github.com/anusha-peddoju/sos
 
-cd sos
+cd sosgame
 
 chmod +x index.sh
 
