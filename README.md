@@ -1,6 +1,6 @@
 # sosgame
 git clone
-https://github.com/anusha-peddoju/sos
+https://github.com/anusha-peddoju/sosgame
 
 cd sosgame
 
